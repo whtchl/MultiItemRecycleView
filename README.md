@@ -31,4 +31,4 @@
 
 
 
-<img src="https://raw.githubusercontent.com/whtchl/MultiItemRecycleView/master/art/1.png"/>
+<img src="https://raw.githubusercontent.com/whtchl/MultiItemRecycleView/master/art/2.png"/>
